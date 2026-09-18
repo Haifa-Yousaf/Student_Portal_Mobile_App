@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "FLEX Student Companion",
+    "slug": "flex-student-companion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
